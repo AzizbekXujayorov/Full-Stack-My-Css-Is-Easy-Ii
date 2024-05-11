@@ -1,0 +1,31 @@
+.header {
+  text-align : center;
+  background-color: #F89426;
+  }
+
+.my-box {
+  /* border-radius: 5px; */
+  text-align: center;
+  height: 5rem;
+  line-height: 5rem;
+  font-size: 20px;
+  /* margin-bottom: 5px; */
+  /* box-shadow: 2px 2px 5px black; */
+  }
+
+.main {
+  background-color: #3CBEE6;
+  }
+
+.empty {
+  background-color: #FAFAFA;
+  }
+
+  .sidebar {
+  background-color: #CC6262;
+  }
+
+  .footer {
+    text-align : center;
+    background-color:  #73C575;
+  }
